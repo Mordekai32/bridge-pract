@@ -1,0 +1,18 @@
+{
+    "Mordekai": {
+        "name": "Mordekai",
+        "balance": 2000.0,
+        "transactions": [
+            "Deposited 5000.0",
+            "Withdrew 3000.0"
+        ]
+    },
+    "Muka": {
+        "name": "Muka",
+        "balance": 73000.0,
+        "transactions": [
+            "Deposited 80000.0",
+            "Withdrew 7000.0"
+        ]
+    }
+}
