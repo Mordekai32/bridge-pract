@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Morekai",
+        "age": 20,
+        "grades": [
+            6.0
+        ]
+    },
+    {
+        "name": "kai",
+        "age": 3,
+        "grades": [
+            7.0
+        ]
+    }
+]
