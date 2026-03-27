@@ -1,10 +1,11 @@
-# import math
+def check_day(day):
+    if day == "Monday":
+        return "Start of the work week"
+    elif day == "Friday":
+        return "Almost weekend!"
+    elif day in ["Saturday", "Sunday"]:
+        return "Weekend!"
+    else:
+        return "Just another day"
 
-n=5
-fact=1
-
-for i in range(1, n+1):
-
-    fact*=i
-
-    print(fact)   
+print(check_day("Friday"))
